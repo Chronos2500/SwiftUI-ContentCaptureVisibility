@@ -1,3 +1,7 @@
+> [!NOTE]
+> このパッケージはiOSDC Japan 2025のセッション用に公開したサンプルパッケージです
+
+
 # SwiftUI-ContentCaptureVisibility
 
 [![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
