@@ -1,5 +1,7 @@
 > [!NOTE]
-> このパッケージはiOSDC Japan 2025のセッション用に公開したサンプルパッケージです
+> このパッケージはiOSDC Japan 2025のセッション用に公開したサンプルパッケージです。
+> 
+> 手元で素早く動かしたい方は [こちらのGist](https://gist.github.com/Chronos2500/c4b90a31f38cc3fb3612718c6ccf1621) をご利用ください。１ファイルにまとまっています。
 
 
 # SwiftUI-ContentCaptureVisibility
